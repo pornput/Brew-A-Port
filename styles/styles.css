@@ -1,0 +1,271 @@
+td {
+  padding: 0 2px;
+}
+
+/* --- Navigation bar --- */
+
+.bap-nav {
+  margin: 0 -15px;
+}
+
+.nav-item {  /* .nav-item extends bootstrap's class */
+  padding: 0 18px;
+}
+
+.bap-logo {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.2rem;
+  /* font-weight: bold; */
+}
+
+/* --- Language --- */
+
+.bap-lang {
+  color: #02a8a8;
+}
+
+.bap-lang:hover {
+  color: #12cad6;
+}
+
+/* --- Facebook --- */
+
+.bap-fb {
+  font-size: 1.5rem;
+  color: #655c56;
+}
+
+.bap-fb:hover {
+  color: #12cad6;
+}
+
+.bap-fb-share {
+  color: #333333;
+}
+
+.bap-fb-share:hover {
+  /* color: #234ede; */
+  color: #cf7500;
+  text-decoration: none;
+}
+
+.bap-fb-share-div {
+  margin: 50px 20px 0 0;
+  text-align: right;
+}
+
+/* ---- Button --- */
+
+.bap-btn {
+  background-color: #ffad2b;
+  border: none;
+  color: #333333;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+.bap-btn:hover {
+  background-color: #ffa30f;
+}
+
+.bap-btn:focus {
+  outline: 0;
+  background-color: #ffa30f;
+}
+
+/* --- Div --- */
+
+.bap-div {
+  padding: 30px;
+  text-align: center;
+}
+
+/* --- Color --- */
+
+.bap-bgc-0 {
+  background-color: #d2c6b2;
+}
+
+.bap-bgc-1 {
+  background-color: #ffcc00;
+}
+
+.bap-bgc-2 {
+  background-color: #ff6666;
+}
+
+.bap-bgc-3 {
+  background-color: #f7dfad;
+}
+
+.bap-bgc-4 {
+  background-color: #888888;
+}
+
+.bap-txc-1 {
+  color: #213785;
+}
+
+/* --- Description --- */
+
+.bap-description {
+  margin: 20px 0 30px;
+}
+
+/* --- Display --- */
+
+.bap-dis-on {
+  display: block;
+}
+
+.bap-dis-off {
+  display: none !important;
+}
+
+/* --- Table --- */
+
+.bap-tbl {
+  margin: 0 auto 0;
+}
+
+.bap-bor-bot {
+  border-bottom: 1px solid #333333;
+}
+
+.bap-cmf-bgc1-bor2 {
+  border-style: solid;
+  background-color: #ffcc00;
+  border-color: #ffcc00;
+  border-width: 2px;
+}
+
+.bap-hide {
+  visibility: collapse;
+}
+
+.bap-tbl-full {
+  width: 100%;
+  table-layout: fixed;
+  margin: 0 auto 0;
+}
+
+.bap-tbl-90 {
+  width: 90%;
+  table-layout: fixed;
+  margin: 0 auto 0;
+}
+
+.bap-td-pad-lrg {
+  padding: 0 5px 15px;
+  vertical-align: top;
+}
+
+/* --- Selection --- */
+
+.bap-rtl {
+  direction: rtl;
+}
+
+/* --- Width and Space --- */
+
+.bap-spc-bot {
+  padding-bottom: 10px;
+}
+
+.bap-wid-25 {
+  width: 25%;
+}
+
+.bap-wid-50 {
+  width: 50%;
+}
+
+.bap-wid-75 {
+  width: 75%;
+}
+
+.bap-wid-100 {
+  width: 100%;
+}
+
+.bap-pad-rgt-8 {
+  padding-right: 8px;
+}
+
+/* --- Text --- */
+
+.bap-lft {
+  text-align: left;
+}
+
+.bap-rgt {
+  text-align: right;
+}
+
+.bap-bld {
+  font-weight: bold;
+}
+
+.bap-top {
+  vertical-align: top;
+}
+
+.bap-txt-siz-85 {
+  font-size: 0.85rem;
+}
+
+.bap-txt-siz-75 {
+  font-size: 0.75rem;
+}
+
+.bap-txt-res-2vw {
+  font-size: 2.4vw;
+}
+
+.bap-txt-res-1vw {
+  font-size: 1.2vw;
+}
+
+/* --- Input number --- */
+
+.bap-inp-num-6 {
+  margin: 0 0 5px;
+  text-align: right;
+  width: 6rem;
+}
+
+.bap-inp-num {
+  margin: 0 0 5px;
+  text-align: right;
+  width: 100%;
+}
+
+/* --- Display --- */
+
+.bap-inline {
+  display: inline;
+}
+
+/* --- Image ---*/
+
+.bap-img-mid {
+  margin: 20px auto;
+  height: 160px;
+  width: 160px;
+  display: block;
+}
+
+.bap-img-lrg {
+  margin: 30px auto 50px;
+  height: 256px;
+  width: 256px;
+  display: block;
+}
+
+/* --- Font --- */
+
+.bap-question {
+  padding-bottom: 3px;
+}
